@@ -94,6 +94,8 @@ Try updating the code in the following code chunk. Assign `2+2` to another objec
 # For example:
 x <- seq(1, 10, 1)
 x
+y <- 2 + 2
+y
 ```
 
 Take some time and work through the Markdown tutorial here: [www.markdown-tutorial.com](www.markdown-tutorial.com).
