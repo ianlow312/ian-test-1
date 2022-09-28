@@ -96,6 +96,7 @@ x <- seq(1, 10, 1)
 x
 y <- 2 + 2
 y
+# hello
 ```
 
 Take some time and work through the Markdown tutorial here: [www.markdown-tutorial.com](www.markdown-tutorial.com).
